@@ -13,11 +13,11 @@ Student Robotics competition. Each role description includes:
 
 Volunteers on reception will be responsible for checking people in to the
 competition. They should check that everyone who enters the competiiton is
-wearing a wristband. For Students under the age of 18 this means taking their
-tickes and giving them a wristband. For everyone else, this means making them
-sign a media consent form and then issuing them a wristband. Reception
-will also be responsible for collecting spare batteries from teams when they
-enter.
+wearing a wristband. For Students under the age of 18 this means
+taking/scanning their tickes and giving them a wristband. For everyone else,
+this means making them sign a media consent form and then issuing them a
+wristband. Reception will also be responsible for collecting spare batteries
+from teams when they enter.
 
 * Person responsible for training: **Jeremy Morse**
 * Equipment present: computers for ticket scanning, wristband crimpers,
@@ -58,8 +58,8 @@ helping them solve their problems. This can take many forms including:
 etc. As such, we're not being too prescriptive about this role. An experienced
 member of the SR community will be present on helpdesk at all times.
 
-* Person responsible for training: **Jeremy Morse**
-* Equipment present: radio
+* Person responsible for training: **Peter Law**
+* Equipment present: radio, spare kit.
 * Role position: static, helpdesk on the top floor
 
 ##Inspections
@@ -78,7 +78,7 @@ earlier in the schedule have their saftey checks done first.
 Volunteers on this role will join the team on helpdesk in phsyical space, but
 they will be responsible for ensuring all the batteries are charged.
 
-* Person responsible for training: **Undecided**
+* Person responsible for training: **Richard Barlow**
 * Equipment present: radio (shared with helpdesk), battery chargers
 * Role position: static, top floor battery charging desk.
 
@@ -111,7 +111,7 @@ Volunteers are responsible for being in the arena, saving robots and scoring
 matches.
 
 * Person responsible for training: **Sam Phippen**
-* Equipment present: score sheets
+* Equipment present: score sheets, copy of the rules
 * Role position: static, in the arenas.
 
 ##Commentator
